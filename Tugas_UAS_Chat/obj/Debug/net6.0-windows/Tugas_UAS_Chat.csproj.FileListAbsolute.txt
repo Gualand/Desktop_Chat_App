@@ -1,0 +1,34 @@
+C:\Users\GALLANT\source\repos\Tugas_UAS_Chat\Tugas_UAS_Chat\bin\Debug\net6.0-windows\Tugas_UAS_Chat.exe
+C:\Users\GALLANT\source\repos\Tugas_UAS_Chat\Tugas_UAS_Chat\bin\Debug\net6.0-windows\Tugas_UAS_Chat.deps.json
+C:\Users\GALLANT\source\repos\Tugas_UAS_Chat\Tugas_UAS_Chat\bin\Debug\net6.0-windows\Tugas_UAS_Chat.runtimeconfig.json
+C:\Users\GALLANT\source\repos\Tugas_UAS_Chat\Tugas_UAS_Chat\bin\Debug\net6.0-windows\Tugas_UAS_Chat.dll
+C:\Users\GALLANT\source\repos\Tugas_UAS_Chat\Tugas_UAS_Chat\bin\Debug\net6.0-windows\Tugas_UAS_Chat.pdb
+C:\Users\GALLANT\source\repos\Tugas_UAS_Chat\Tugas_UAS_Chat\obj\Debug\net6.0-windows\Tugas_UAS_Chat.csproj.AssemblyReference.cache
+C:\Users\GALLANT\source\repos\Tugas_UAS_Chat\Tugas_UAS_Chat\obj\Debug\net6.0-windows\Tugas_UAS_Chat.Form1.resources
+C:\Users\GALLANT\source\repos\Tugas_UAS_Chat\Tugas_UAS_Chat\obj\Debug\net6.0-windows\Tugas_UAS_Chat.csproj.GenerateResource.cache
+C:\Users\GALLANT\source\repos\Tugas_UAS_Chat\Tugas_UAS_Chat\obj\Debug\net6.0-windows\Tugas_UAS_Chat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GALLANT\source\repos\Tugas_UAS_Chat\Tugas_UAS_Chat\obj\Debug\net6.0-windows\Tugas_UAS_Chat.AssemblyInfoInputs.cache
+C:\Users\GALLANT\source\repos\Tugas_UAS_Chat\Tugas_UAS_Chat\obj\Debug\net6.0-windows\Tugas_UAS_Chat.AssemblyInfo.cs
+C:\Users\GALLANT\source\repos\Tugas_UAS_Chat\Tugas_UAS_Chat\obj\Debug\net6.0-windows\Tugas_UAS_Chat.csproj.CoreCompileInputs.cache
+C:\Users\GALLANT\source\repos\Tugas_UAS_Chat\Tugas_UAS_Chat\obj\Debug\net6.0-windows\Tugas_UAS_Chat.dll
+C:\Users\GALLANT\source\repos\Tugas_UAS_Chat\Tugas_UAS_Chat\obj\Debug\net6.0-windows\refint\Tugas_UAS_Chat.dll
+C:\Users\GALLANT\source\repos\Tugas_UAS_Chat\Tugas_UAS_Chat\obj\Debug\net6.0-windows\Tugas_UAS_Chat.pdb
+C:\Users\GALLANT\source\repos\Tugas_UAS_Chat\Tugas_UAS_Chat\obj\Debug\net6.0-windows\Tugas_UAS_Chat.genruntimeconfig.cache
+C:\Users\GALLANT\source\repos\Tugas_UAS_Chat\Tugas_UAS_Chat\obj\Debug\net6.0-windows\ref\Tugas_UAS_Chat.dll
+C:\Users\GALLANT\source\repos\UAS DESKTOP\Tugas_UAS_Chat\Tugas_UAS_Chat\bin\Debug\net6.0-windows\Tugas_UAS_Chat.exe
+C:\Users\GALLANT\source\repos\UAS DESKTOP\Tugas_UAS_Chat\Tugas_UAS_Chat\bin\Debug\net6.0-windows\Tugas_UAS_Chat.deps.json
+C:\Users\GALLANT\source\repos\UAS DESKTOP\Tugas_UAS_Chat\Tugas_UAS_Chat\bin\Debug\net6.0-windows\Tugas_UAS_Chat.runtimeconfig.json
+C:\Users\GALLANT\source\repos\UAS DESKTOP\Tugas_UAS_Chat\Tugas_UAS_Chat\bin\Debug\net6.0-windows\Tugas_UAS_Chat.dll
+C:\Users\GALLANT\source\repos\UAS DESKTOP\Tugas_UAS_Chat\Tugas_UAS_Chat\bin\Debug\net6.0-windows\Tugas_UAS_Chat.pdb
+C:\Users\GALLANT\source\repos\UAS DESKTOP\Tugas_UAS_Chat\Tugas_UAS_Chat\obj\Debug\net6.0-windows\Tugas_UAS_Chat.csproj.AssemblyReference.cache
+C:\Users\GALLANT\source\repos\UAS DESKTOP\Tugas_UAS_Chat\Tugas_UAS_Chat\obj\Debug\net6.0-windows\Tugas_UAS_Chat.Form1.resources
+C:\Users\GALLANT\source\repos\UAS DESKTOP\Tugas_UAS_Chat\Tugas_UAS_Chat\obj\Debug\net6.0-windows\Tugas_UAS_Chat.csproj.GenerateResource.cache
+C:\Users\GALLANT\source\repos\UAS DESKTOP\Tugas_UAS_Chat\Tugas_UAS_Chat\obj\Debug\net6.0-windows\Tugas_UAS_Chat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GALLANT\source\repos\UAS DESKTOP\Tugas_UAS_Chat\Tugas_UAS_Chat\obj\Debug\net6.0-windows\Tugas_UAS_Chat.AssemblyInfoInputs.cache
+C:\Users\GALLANT\source\repos\UAS DESKTOP\Tugas_UAS_Chat\Tugas_UAS_Chat\obj\Debug\net6.0-windows\Tugas_UAS_Chat.AssemblyInfo.cs
+C:\Users\GALLANT\source\repos\UAS DESKTOP\Tugas_UAS_Chat\Tugas_UAS_Chat\obj\Debug\net6.0-windows\Tugas_UAS_Chat.csproj.CoreCompileInputs.cache
+C:\Users\GALLANT\source\repos\UAS DESKTOP\Tugas_UAS_Chat\Tugas_UAS_Chat\obj\Debug\net6.0-windows\Tugas_UAS_Chat.dll
+C:\Users\GALLANT\source\repos\UAS DESKTOP\Tugas_UAS_Chat\Tugas_UAS_Chat\obj\Debug\net6.0-windows\refint\Tugas_UAS_Chat.dll
+C:\Users\GALLANT\source\repos\UAS DESKTOP\Tugas_UAS_Chat\Tugas_UAS_Chat\obj\Debug\net6.0-windows\Tugas_UAS_Chat.pdb
+C:\Users\GALLANT\source\repos\UAS DESKTOP\Tugas_UAS_Chat\Tugas_UAS_Chat\obj\Debug\net6.0-windows\Tugas_UAS_Chat.genruntimeconfig.cache
+C:\Users\GALLANT\source\repos\UAS DESKTOP\Tugas_UAS_Chat\Tugas_UAS_Chat\obj\Debug\net6.0-windows\ref\Tugas_UAS_Chat.dll
